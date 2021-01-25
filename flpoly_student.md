@@ -16,7 +16,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 	Draken International
 	M/W/F 0800-1500
 
-###Hobbies:
+### Hobbies:
 
 I enjoy PC Gaming and spending time at the shooting range. My primary genres are strategy games and RPGs.
 - Gaming
