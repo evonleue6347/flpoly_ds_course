@@ -4,21 +4,21 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
-	COP 2073 M/W 4p
-- Course 2
-	ESI 4513 M/W 530p
-- Course 3
-	HIM 3514 T/Th 11a
-- Course 4
-	IDC 4943 T/Th 330p
+- Intro to Data Science
+	COP 2073 M/W 1600
+- Intelligent Transporation Systems
+	ESI 4513 M/W 1730
+- Health Systems Modeling and Optimization
+	HIM 3514 T/Th 1100
+- Data Analytics Capstone II
+	IDC 4943 T/Th 1530
+- Professional Experience Internship
+	Draken International
+	M/W/F 0800-1500
 
-**Hobbies:**
+###Hobbies:
 
-I am _passionate about_: 
-
+I enjoy PC Gaming and spending time at the shooting range. My primary genres are strategy games and RPGs.
 - Gaming
-
 - Firearms
-
-- Game collecting as shown in this website <https://steamcommunity.com/id/evileddead>
+- Game collecting as shown [in this website](https://steamcommunity.com/id/evileddead)
