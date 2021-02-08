@@ -4,15 +4,15 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- __Intro to Data Science__ (3)
+- _Intro to Data Science_ (3)
 	**COP 2073** M/W 1600
-- __Intelligent Transporation Systems__ (3)
+- _Intelligent Transporation Systems_ (3)
 	**ESI 4513** M/W 1730
-- __Health Systems Modeling and Optimization__ (3)
+- _Health Systems Modeling and Optimization_ (3)
 	**HIM 3514** T/Th 1100
-- __Data Analytics Capstone II__ (3)
+- _Data Analytics Capstone II_ (3)
 	**IDC 4943** T/Th 1530
-- __Professional Experience Internship__ (0)
+- _Professional Experience Internship_ (0)
 	Draken International
 	M/W/F 0800-1500
 
