@@ -1,22 +1,22 @@
-## Edward Von Leue
+# Edward Von Leue
 
-### SP 2021 
+## SP 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
-	COP 2073 M/W 1600
-- Intelligent Transporation Systems
-	ESI 4513 M/W 1730
-- Health Systems Modeling and Optimization
-	HIM 3514 T/Th 1100
-- Data Analytics Capstone II
-	IDC 4943 T/Th 1530
-- Professional Experience Internship
+- __Intro to Data Science__ (3)
+	**COP 2073** M/W 1600
+- __Intelligent Transporation Systems__ (3)
+	**ESI 4513** M/W 1730
+- __Health Systems Modeling and Optimization__ (3)
+	**HIM 3514** T/Th 1100
+- __Data Analytics Capstone II__ (3)
+	**IDC 4943** T/Th 1530
+- __Professional Experience Internship__ (0)
 	Draken International
 	M/W/F 0800-1500
 
-### Hobbies:
+## Hobbies:
 
 I enjoy PC Gaming and spending time at the shooting range. My primary genres are strategy games and RPGs.
 - Gaming
